@@ -1,4 +1,4 @@
-#Employee Leave Request Management API
+# Employee Leave Request Management API
 
 ## Overview
 A FastAPI service for managing employee leave requests with SQLlite
