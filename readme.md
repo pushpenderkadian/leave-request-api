@@ -4,13 +4,13 @@
 A FastAPI service for managing employee leave requests with SQLlite
 
 ## Features
-    -   **Create and retrieve** leave requests
-    -   **Business rule Validation** 
-    -   **Proper error handling**
+    -   ** Create and retrieve ** leave requests
+    -   ** Business rule Validation ** 
+    -   ** Proper error handling **
 
 ## Setup Instrutions
 
-1. **Clone the repository **
+1. **Clone the repository**
     ```sh
     git clone https://github.com/pushpenderkadianleave-request-api.get
     cd leave-request-api
