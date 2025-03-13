@@ -12,7 +12,7 @@ A FastAPI service for managing employee leave requests with SQLlite
 
 1. **Clone the repository**
     ```sh
-    git clone https://github.com/pushpenderkadianleave-request-api.get
+    git clone https://github.com/pushpenderkadian/leave-request-api.get
     cd leave-request-api
     ```
 
